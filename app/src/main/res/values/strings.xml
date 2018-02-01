@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QNews</string>
+    <string-array name="news_type_cn">
+        <item>头条</item>
+        <item>社会</item>
+        <item>国内</item>
+        <item>娱乐</item>
+        <item>体育</item>
+        <item>军事</item>
+        <item>科技</item>
+        <item>财经</item>
+        <item>时尚</item>
+    </string-array>
+    <string name="string_about_banquan">版权归作者所有</string>
+    <string name="string_about_notification">该项目为练手项目</string>
+    <string name="name">姓名：蔡寿惠</string>
+    <string name="school">学校：广东科技学院</string>
+    <string name="clazz">专业：软件工程</string>
+    <string name="bo_ke">博客：http://blog.sina.com.cn/androidcao</string>
+    <string name="git">Git:https://github.com/freakcsh</string>
+</resources>
